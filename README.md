@@ -8,7 +8,7 @@
 - 🔭 Atulamente cursando o bacharelado em Tecnologia da Informação na [UFRN](https://www.ufrn.br/).
 - 👾 Formado técnico em informática na [EAJ/UFRN](https://eaj.ufrn.br/)
 - 🤖 Desenvolvedor Fullstack
-- 🌱 Atualmente aprendendo **React**
+- 🌱 Atualmente aprendendo **C**
 - 💬 Pergunte-me sobre **Java**
 
 #
