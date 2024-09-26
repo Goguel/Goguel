@@ -8,12 +8,12 @@
 - 🔭 Atulamente cursando o bacharelado em Tecnologia da Informação na [UFRN](https://www.ufrn.br/).
 - 👾 Formado técnico em informática na [EAJ/UFRN](https://eaj.ufrn.br/)
 - 🤖 Desenvolvedor Fullstack
-- 🌱 Atualmente aprendendo **C**
+- 🌱 Atualmente aprendendo **C** e **React**
 - 💬 Pergunte-me sobre **Java**
 
 #
 
-<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/C/c-language-logo-CE0F92E683-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="30px">
+<img src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/C/c-language-logo-CE0F92E683-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width="37px"> <img src="https://seeklogo.com/images/P/postgresql-logo-5309879B58-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/V/visual-studio-code-logo-449D71944F-seeklogo.com.png" width="30px"> <img src="https://seeklogo.com/images/I/intellij-idea-logo-F0395EF783-seeklogo.com.png" width="30px">
    
 
 #
