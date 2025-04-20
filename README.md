@@ -21,7 +21,7 @@
 
 ### Frontend:
   
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB") 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB") ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 
 ### Banco de dados & Ambientes
 
@@ -64,7 +64,16 @@ Para saber mais informações técnicas sobre o projeto, clique ao lado: [🔗 A
 
 Para saber mais informações técnicas sobre o projeto, clique ao lado: [🔗 Acessar repositório](https://github.com/Goguel/Portifolio)
 
-Acesse também o próprio portifólio, clique ao lado: [🔗 Acessar portifólio](https://portifolio-miguelx.vercel.app/)
+Acesse também o próprio portifólio, clique ao lado: [🌐 Acessar portifólio](https://portifolio-miguelx.vercel.app/)
+
+#
+
+#### <ins>SOMODs</ins>
+
+##### Resumo:
+- Consiste numa aplicação desktop, feito com **Java** e **JavaFX**, para gerenciamento de uma farmácia, permitindo realizar todas operações CRUD com clientes, funcionários e produtos. Também é possível fazer vendas, atribuindo um cliente e funcionario à venda, adicionando os produtos que serão comprados pelo cliente e sendo emitido nota fiscal(é gerado um aqruivo .txt) ao final da venda.
+
+Para saber mais informações técnicas sobre o projeto, clique ao lado: [🔗 Acessar repositório](https://github.com/Goguel/SOMODs)
 
 ---
 <div align="center">
