@@ -46,6 +46,8 @@
 
 Para saber mais informações técnicas sobre o projeto, clique ao lado: [🔗 Acessar repositório](https://github.com/goguel/studyrats)
 
+Veja na prática, clique ao lado: [🌐 Acessar Study Rats](https://studyrats-frontend.onrender.com)
+
 #
 
 #### <ins>EclipseHotel</ins>
