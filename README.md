@@ -6,10 +6,10 @@
 
 <h3 align="center"> Um eterno estudante curioso sempre à procura de novos conhecimentos </h3>
 
-- 🔭 Atulamente cursando o bacharelado em Tecnologia da Informação na [UFRN](https://www.ufrn.br/).
+- 🔭 Cursando o [Bacharelado em Tecnologia da Informação](https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti) na [UFRN](https://www.ufrn.br/).
 - 👾 Formado técnico em informática na [EAJ/UFRN](https://eaj.ufrn.br/)
-- 🤖 Desenvolvedor Fullstack **Java Spring** & **Angular**/**React**
-- 🌱 Atualmente aprendendo **C++**
+- 🤖 Atualmente, desenvolvedor Fullstack **Java Spring** & **Angular** na [Nordeste Fomento Mercantil LTDA](https://www.nordestefomento.com.br/)
+- 🌱 Estudando sobre **C++**
 - 🤩 Interesse em **Microservices**
 - 💬 Pergunte-me sobre **Java**
 
@@ -31,7 +31,7 @@
  ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ### Ferramentas & IDEs
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
 ---
 
