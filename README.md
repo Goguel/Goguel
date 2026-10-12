@@ -8,7 +8,7 @@
 
 - 🔭 Cursando o [Bacharelado em Tecnologia da Informação](https://www.metropoledigital.ufrn.br/portal/ensino/graduacao/bti) na [UFRN](https://www.ufrn.br/).
 - 👾 Formado técnico em informática na [EAJ/UFRN](https://eaj.ufrn.br/)
-- 🤖 Atualmente, desenvolvedor Fullstack **Java Spring** & **Angular** na [Nordeste Fomento Mercantil LTDA](https://www.nordestefomento.com.br/)
+- 🤖 Atualmente, desenvolvedor Backend **Java Spring** no [IMD/UFRN](https://www.metropoledigital.ufrn.br/portal/)
 - 🌱 Estudando sobre **C++**
 - 🤩 Interesse em **Microservices**
 - 💬 Pergunte-me sobre **Java**
